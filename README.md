@@ -1,7 +1,7 @@
 # 🎮Game for PC and laptop
-This is a game develop by me 2019
+2019 - This is a game developed by me
 https://bewaregame.firebaseapp.com/
 
 # 📚Group kai 
-This is a website explan about UX process that just a mini project
+2021 - This is a website expain about UX process that just a mini project
 https://grouppkai.wixsite.com/group-kai
